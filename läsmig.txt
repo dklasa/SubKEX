@@ -1,0 +1,13 @@
+Finns flera olika filer, nedan anteckningar berättar vad samtliga gör.
+
+länkar.txt == innehåller användbara länkar som koden är baserad på
+anteckningar.txt == små anteckningar för att hålla koll på projektet
+
+graphClass.py == laddar vald graph och strukturerar upp informationen
+classGame.py == implementerar spelets logik
+classSubAlg.py == implementerar ubåtens algoritm
+classBoatAlg,py == implementerar båtens algoritm
+
+mainGUI.py == GUI för spelet, kör härifrån för att se hur spelet går (icke essentiell)
+
+graph1.csv == en första graph för spelet att spelas på
