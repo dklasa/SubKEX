@@ -11,7 +11,7 @@ class GameLogic:
         all_nodes = list(self.graph.nodes.keys())
         possible_boat_starts = [n for n in all_nodes if n not in self.graph.start_nodes]
         self.boat_pos = random.choice(possible_boat_starts)
-
+        #Coment... :-3
         # initializing algorithm
         self.boat_a = BoatAlg(self.graph)
 

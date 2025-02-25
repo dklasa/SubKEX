@@ -11,3 +11,5 @@ classBoatAlg,py == implementerar båtens algoritm
 mainGUI.py == GUI för spelet, kör härifrån för att se hur spelet går (icke essentiell)
 
 graph1.csv == en första graph för spelet att spelas på
+
+Tjena!!!
